@@ -29,7 +29,7 @@ clc
 clear
 close all
 
-option_generate_a_figure_with_localized_landmarks = true;
+option_generate_a_figure_with_localized_landmarks = false;
 
 folder_Ours = pwd;
 folder_Code = fileparts(folder_Ours);
