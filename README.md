@@ -12,8 +12,14 @@ The code is verified on Windows10 and Matlab2017a.
 
 [OpenCV library](http://opencv.org/). We use its five DLL files: opencv_core244.dll, opencv_ffmpeg244_64.dll, opencv_highgui244.dll, opencv_imgproc244.dll, and opencv_objdetect244.dll. They can be found in our released dataset package and need to be placed in the Code/Ours2 folder for Matlab access.
 
+[IntraFace library]
+
+[A+ Super-resolution code]
+
+[SA_DCT library]
+
 ## Dataset package
-Please download it (125mb) from the Google Drive [(link)](https://drive.google.com/file/d/0B3BFPCczyQJnWVFnOXhVZHh2VTg/view?usp=sharing).
+Please download it (162mb) from the Google Drive [(link)](https://drive.google.com/file/d/0B3BFPCczyQJnTFJjbTRHdGtPSDA/view?usp=sharing) or the Baidu Pan [(link)](https://pan.baidu.com/s/1ge9fKVh).
 
 ## Reproduce our experiments
 Run the Test106_ExtraLandmarks_6p4.m and the results are generated in the folder Result/Test106_ExtraLandmarks_6p4.
