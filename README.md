@@ -12,9 +12,9 @@ The code is verified on Windows10 and Matlab2017a.
 
 [OpenCV library](http://opencv.org/). We use its five DLL files: opencv_core244.dll, opencv_ffmpeg244_64.dll, opencv_highgui244.dll, opencv_imgproc244.dll, and opencv_objdetect244.dll. They can be found in our released dataset package and need to be placed in the Code/Ours2 folder for Matlab access.
 
-[IntraFace library]
+[IntraFace library](http://www.humansensing.cs.cmu.edu/intraface/). A copy of the IntraFace library v1.3 is included in our released dataset package.
 
-[A+ Super-resolution code]
+[A+ Super-resolution method](http://www.vision.ee.ethz.ch/~timofter/ACCV2014_ID820_SUPPLEMENTARY/). The code is publicly available and a copy is included in our released dataset package.
 
 [SA_DCT library]
 
