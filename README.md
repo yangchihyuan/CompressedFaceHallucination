@@ -19,7 +19,7 @@ The code is tested by MATLAB2017a on Windows10.
 
 [A+ Super-resolution method](http://www.vision.ee.ethz.ch/~timofter/ACCV2014_ID820_SUPPLEMENTARY/). The code is publicly available and a copy is included in our released dataset package.
 
-[SA_DCT library]
+[SA_DCT library](http://www.cs.tut.fi/~foi/SA-DCT/). The code is publicly available and a copy is included in our released dataset package.
 
 ## Dataset package
 Please download it (162mb) from the Google Drive [(link)](https://drive.google.com/file/d/0B3BFPCczyQJnTFJjbTRHdGtPSDA/view?usp=sharing) or the Baidu Pan [(link)](https://pan.baidu.com/s/1ge9fKVh).
