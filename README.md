@@ -1,5 +1,5 @@
 ## Hallucinating Compressed Face Images
-This is an IJCV 2017 paper.
+This is an IJCV 2017 paper, which extends my previous work "Structured Face Hallucination", CVPR'13.
 
 ## Manuscript
 [download link](https://link.springer.com/content/pdf/10.1007%2Fs11263-017-1044-4.pdf)
