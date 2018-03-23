@@ -4,7 +4,7 @@ This is an IJCV 2017 paper, which extends my previous work "Structured Face Hall
 ## Manuscript
 [download link](https://link.springer.com/content/pdf/10.1007%2Fs11263-017-1044-4.pdf)
 
-## Online supplimentary webpage
+## Online supplementary webpage
 http://homepage.ntu.edu.tw/~yangchihyuan1/index.html
 
 ## Experimental environment
@@ -31,7 +31,7 @@ Run the Test106_ExtraLandmarks_6p4.m and the results are generated in the folder
 Please cite our paper if you use this repository in your research. BibTeX:
 ```
 @article{Yang17_IJCV,
-	title={Hallucianting Compressed Face Images,,
+	title={Hallucinating Compressed Face Images,,
 	author={Chih-Yuan Yang and Sifei Liu and Ming-Hsuan Yang},
 	journal={International Journal of Computer Vision},
 	year={2017}
